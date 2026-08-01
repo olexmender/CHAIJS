@@ -1,1 +1,0 @@
-console.log("this is the best way to do this")
